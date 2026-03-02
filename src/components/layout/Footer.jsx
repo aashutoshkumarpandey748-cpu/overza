@@ -42,7 +42,7 @@ const Footer = () => {
   </a>
 
   <a
-    href="https://ravi-chaudhary44.github.io/Portfolio/"
+    href="https://www.ravi-chaudhary.com.np/"
     target="_blank"
     rel="noopener noreferrer"
     className="text-gray-400 hover:text-white transition-colors"
@@ -142,5 +142,6 @@ const Footer = () => {
     </footer>
   );
 };
+
 
 export default Footer;
