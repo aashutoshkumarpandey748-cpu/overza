@@ -204,7 +204,7 @@ const { isDarkMode } = useTheme();
               Easy Sharing
             </h3>
             <p className="text-gray-600 dark:text-gray-400">
-              Share match via link or QR code. Anyone can join instantly
+              Share xyz match via link or QR code. Anyone can join instantly
             </p>
           </GlassWrapper>
           </motion.div>
